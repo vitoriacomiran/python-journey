@@ -5,7 +5,7 @@ Este repositório agrupa os estudos que faço em Python. Além deste repositóri
 
 - `variaveis` — declaração, tipos de dados e boas práticas
 - `funcoes` — definição, argumentos, escopo e funções anônimas
-- `lgoritmos` — lógica, entrada/saída, operadores e fluxo de dados
+- `algoritmos` — lógica, entrada/saída, operadores e fluxo de dados
 - `lacos-de-repeticao` — uso de `for`, `while`, `break`, `continue`
 - `listas` — manipulação, métodos úteis, listas aninhadas
 - `tuplas` — imutabilidade, slicing e uso prático
