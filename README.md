@@ -1,4 +1,4 @@
-## Estudo Python
+## Estudo Python (em construção)
 
 ### Um pouco de estudo de Python com:
 - Funções
