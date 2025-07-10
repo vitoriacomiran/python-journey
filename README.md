@@ -1,4 +1,12 @@
 ## Estudo Python
 
-Estudo de funções, variáveis e algorítimos.
-Teste de novas lib.
+### Um pouco de estudo de Python com:
+- Funções
+- Variáveis
+- Algorítimos
+- Laços de Repetições
+- Dicionários
+- Listas
+- Tuplas
+- Arquivos e JSON
+- Bibliotecas
