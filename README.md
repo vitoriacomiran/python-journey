@@ -17,3 +17,7 @@ Este repositório agrupa os estudos que faço em Python. Além deste repositóri
 ### 📌 Objetivo
 
 Registrar meu progresso e consolidar conhecimento de forma prática e reutilizável. Este repositório também serve como apoio para futuras consultas e revisões.
+
+## Ferramenta
+Python 3.13
+Pycharm 2025.1
