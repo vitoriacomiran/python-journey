@@ -26,12 +26,6 @@ Este repositório está sendo desenvolvido com o objetivo de consolidar meus est
 
 ---
 
-## 💻 Como usar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-
 ## 🔧 Ferramenta
 Python 3.13
 Pycharm 2025.1
