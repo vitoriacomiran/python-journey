@@ -1,22 +1,36 @@
-## Python Journey (em construção)
+# 🐍 Estudos de Python
 
-Este repositório agrupa os estudos que faço em Python. Além deste repositório de estudo, você pode encontrar mais sobre Python em outros repositórios onde desenvolvi projetos.
-### 📁 Estrutura:
+Este repositório está sendo desenvolvido com o objetivo de consolidar meus estudos sobre a linguagem Python, focando principalmente em lógica de programação e nos principais fundamentos. Aqui você encontrará anotações, exemplos de código e exercícios práticos divididos por temas.
 
-- `variaveis` — declaração, tipos de dados e boas práticas
-- `funcoes` — definição, argumentos, escopo e funções anônimas
-- `algoritmos` — lógica, entrada/saída, operadores e fluxo de dados
-- `lacos-de-repeticao` — uso de `for`, `while`, `break`, `continue`
-- `listas` — manipulação, métodos úteis, listas aninhadas
-- `tuplas` — imutabilidade, slicing e uso prático
-- `dicionarios` — criação, iteração, métodos e aninhamento
-- `arquivos-json` — leitura, escrita e manipulação de arquivos e JSON
-- `bibliotecas` — uso de bibliotecas como `math`, `random`, `datetime`, etc.
+---
 
-  
-### 📌 Objetivo
+## 🗂 Estrutura do Repositório
 
-Registrar meu progresso e consolidar conhecimento de forma prática e reutilizável. Este repositório também serve como apoio para futuras consultas e revisões.
+| Pasta / Arquivo         | Conteúdo                                                                 |
+|-------------------------|--------------------------------------------------------------------------|
+| `Variáveis`             | Criação de variáveis, entrada de dados, uso do módulo `math`, conversões com `typecasting`. |
+| `Decisões`              | Estruturas condicionais com `if`, `else`, `elif` e decisões encadeadas. |
+| `Repetições`            | Estruturas de repetição com `for` e `while`.                             |
+| `Listas`                | Criação de listas, listas múltiplas, busca em listas e tipos diferentes. |
+| `Exercícios`            | Exercícios práticos organizados por tema (listas e decisões).            |
+| `sumario.py`            | Resumo geral ou índice dos conteúdos (em desenvolvimento).               |
+
+---
+
+## 📌 Objetivo
+
+- Praticar a lógica de programação usando Python.
+- Aprender os conceitos fundamentais da linguagem.
+- Reforçar conteúdos estudados em cursos, aulas e projetos pessoais.
+- Construir uma base sólida para evoluir para automações, análise de dados e backend.
+
+---
+
+## 💻 Como usar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/nome-do-repositorio.git
 
 ## 🔧 Ferramenta
 Python 3.13
